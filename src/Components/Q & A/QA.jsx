@@ -3,7 +3,7 @@ import React from 'react';
 const QA = () => {
   return (
     <div id="accordionExample" className='w-full max-w-[1200px] m-auto pb-10'>
-      <h1 className='text-center p-5 mb-10 font-bold text-5xl'>Question and Answer</h1>
+      <h1 className='text-center p-5 mb-10 font-bold text-orange-500 text-5xl'>Question and Answer</h1>
       <div
         class="rounded-t-lg border border-neutral-200 bg-white dark:border-neutral-600 dark:bg-neutral-800">
         <h2 class="mb-0" id="headingOne">
@@ -85,7 +85,9 @@ const QA = () => {
           data-te-parent="#accordionExample">
           <div class="py-4 px-5">
             <strong>Purpose of <code>useEffect()</code></strong><br />
-            When the site is rendered, <code>useEffect()</code> will be perform with it's inner Statement.
+            Making a request to an API for data from a backend server.
+            To interact with browser APIs.
+            Using unpredictable timing functions like setTimeout or setInterval.
           </div>
         </div>
       </div>
