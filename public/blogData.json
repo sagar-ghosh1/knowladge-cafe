@@ -3,9 +3,36 @@
     "id": 1,
     "authorName": "John",
     "authorImage": "https://images.pexels.com/photos/8090137/pexels-photo-8090137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "title": "Computer Science The Most Passionable Field",
-    "coverImage": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=996&t=st=1681137023~exp=1681137623~hmac=f3c4083a3c276132d13ef400fb9da626d56f21fc213a6ed2bf7dd777eafff8ca",
+    "title": "Computer Science The Most Important Field",
+    "coverImage": "https://images.pexels.com/photos/265152/pexels-photo-265152.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "readingTime": 5,
-    "publishedDate": "January 4 2023"
+    "publishedDate": "January 2 2023"
+  },
+  {
+    "id": 2,
+    "authorName": "Piter",
+    "authorImage": "https://images.pexels.com/photos/5384445/pexels-photo-5384445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Top 5 programming languages in the world",
+    "coverImage": "https://img.freepik.com/free-photo/coding-man_1098-18084.jpg?w=900&t=st=1681138387~exp=1681138987~hmac=77f7f413d2bd2f4c373895efca695ef72b18ef674557711fafa7fc9783cde341",
+    "readingTime": 7,
+    "publishedDate": "January 28 2023"
+  },
+  {
+    "id": 3,
+    "authorName": "Harsha",
+    "authorImage": "https://gravatar.com/avatar/05995506fdb9ef28bd74d0d8dcbfd85c",
+    "title": "How much does eCommerce website development cost in Bangladesh",
+    "coverImage": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=900&t=st=1681138550~exp=1681139150~hmac=09e153320f83402e088919bc0c209ccd8c459b08590e22518b191f20d02f2a2b",
+    "readingTime": 10,
+    "publishedDate": "February 15 2023"
+  },
+  {
+    "id": 4,
+    "authorName": "Broke",
+    "authorImage": "https://gravatar.com/avatar/e42b99b8ea7b4f491a97f09008c1bfed",
+    "title": "How to create an eCommerce website using react",
+    "coverImage": "https://img.freepik.com/free-vector/flat-design-online-shopping-landing-page_52683-37321.jpg?w=900&t=st=1681138464~exp=1681139064~hmac=7e007ac706214d7197989bfe5e320de852714eb9c19e0de4b3402885f3f62f6a",
+    "readingTime": 12,
+    "publishedDate": "March 20 2023"
   }
 ]
