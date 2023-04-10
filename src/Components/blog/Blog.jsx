@@ -34,8 +34,8 @@ const Blog = (props) => {
       <div className='mt-5 ml-2'>
         <h1 className='font-bold md:text-3xl text-2xl'>{title}</h1>
         <div className='flex gap-5'>
-          <p className="text-gray-500 pt-5">#Blog</p>
           <p className="text-gray-500 pt-5">#Programming</p>
+          <p className="text-gray-500 pt-5">#Blogs</p>
           <p className="text-gray-500 pt-5">#eCommerce</p>
         </div>
         <p onClick={() => markAsRead(props.blog)} className='underline text-blue-600 cursor-pointer mt-5'>Mark As Read</p>
