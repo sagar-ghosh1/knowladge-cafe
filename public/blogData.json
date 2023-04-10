@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "authorName": "John",
+    "authorImage": "https://images.pexels.com/photos/8090137/pexels-photo-8090137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Computer Science The Most Passionable Field",
+    "coverImage": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=996&t=st=1681137023~exp=1681137623~hmac=f3c4083a3c276132d13ef400fb9da626d56f21fc213a6ed2bf7dd777eafff8ca",
+    "readingTime": 5,
+    "publishedDate": "January 4 2023"
+  }
+]
